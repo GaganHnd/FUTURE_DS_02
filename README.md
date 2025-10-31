@@ -64,6 +64,7 @@ ROI = (approved_conversion * CPC) / spent
 Engagement Rate = (clicks + conversions) / impressions
 
 
+
 📊 Dashboard Visuals
 
 Main KPIs (Cards):
@@ -99,6 +100,7 @@ Table: Top Performing Ads by Conversion and Spend
 Pie Chart: Impressions by Age & Gender
 
 
+
 💡 Key Insights
 
 Conversion Rate: 33.53% overall, with Males 40–44 years performing best.
@@ -112,6 +114,7 @@ Females (30–34) had higher spend but slightly lower conversion efficiency.
 Top 5 interest categories delivered over 50% conversion rates.
 
 
+
 🧠 Tools & Technologies Used
 
 Power BI Desktop – Dashboard creation and analysis
@@ -121,6 +124,7 @@ DAX – For calculated KPIs and measures
 Power Query Editor – Data cleaning and transformation
 
 CSV Dataset – Raw ad campaign data
+
 
 
 🚀 How to Use
