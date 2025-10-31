@@ -8,13 +8,13 @@ The dashboard provides actionable insights into conversion rates, audience engag
 
 This dashboard aims to answer the following key business questions:
 
-How well did the ad campaign perform overall?
+-How well did the ad campaign perform overall?
 
-Which posts or ads had the highest engagement and conversions?
+-Which posts or ads had the highest engagement and conversions?
 
-What was the Click-Through Rate (CTR) and Return on Investment (ROI)?
+-What was the Click-Through Rate (CTR) and Return on Investment (ROI)?
 
-What insights can help improve the next campaign?
+-What insights can help improve the next campaign?
 
 📂 Dataset Overview
 
@@ -35,11 +35,13 @@ total_conversion	Total number of conversions (leads/purchases)
 approved_conversion	Number of approved conversions
 reporting_start	Start date of the campaign
 reporting_end	End date of the campaign
+
+
 ⚙️ Data Cleaning & Preparation
 
 Performed in Power Query Editor (Power BI):
 
-Removed null, blank, and error rows in campaign_id and fb_campaign_id (23% error resolved).
+-Removed null, blank, and error rows in campaign_id and fb_campaign_id (23% error resolved).
 
 Changed data types:
 
